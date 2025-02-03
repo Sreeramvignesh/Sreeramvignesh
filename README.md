@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sreeram Vignesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="370" height="290" src="Sreeramvignesh/Code Gifs.gif">
+<img align="right" width="370" height="290" src="Code Gifs.gif">
 
 - 📫 How to reach me **msreeramvignesh5@gmail.com**
 
