@@ -10,23 +10,20 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sreeramvignesh5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sreeramvignesh5/" height="30" width="40" /></a>
 </p>
 <table>
-<tr>
-  <td style="vertical-align:top; padding-right: 20px;">
-    ### I code in
-  </td>
-  <td>
-    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" style="margin-right:10px;" />
-    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" style="margin-right:10px;" />
-    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" style="margin-right:10px;" />
-    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" style="margin-right:10px;" />
-    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" style="margin-right:10px;" />
-    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/hibernate.png" style="margin-right:10px;" />
-    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
-  </td>  
-</tr>
+  <tr>
+    <td style="vertical-align:middle; padding-right:16px; white-space:nowrap;">
+      <h3 style="margin:0; padding:0;">I code in</h3>
+    </td>
+    <td>
+      <span>
+        <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" style="display:inline-block; margin-right:10px;" />
+        <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" style="display:inline-block; margin-right:10px;" />
+        <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" style="display:inline-block; margin-right:10px;" />
+        <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" style="display:inline-block; margin-right:10px;" />
+        <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" style="display:inline-block; margin-right:10px;" />
+        <img height="50" width="50" src="https://img.icons8.com/color/48/000000/hibernate.png" style="display:inline-block; margin-right:10px;" />
+        <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png" style="display:inline-block; margin-right:10px;" />
+      </span>
+    </td>
+  </tr>
 </table>
-
-
-
-
-
